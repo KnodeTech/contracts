@@ -4,10 +4,14 @@
 
 Phase | Developed | Tested | Documented | Deployed
 ------------ | ------------- | ------------- | ------------- | -------------
-Testing - test of the systems and tokens | [ ] | [ ] | [ ] | [ ]
-Pre-ICO - preparation of the ICO | [ ] | [ ] | [ ] | [ ]
-ICO | [ ] | [ ] | [ ] | [ ]
-Post ICO| [ ] | [ ] | [ ] | [ ]
+Testing - test of the systems and tokens | :tired_face: | :tired_face: | :tired_face: | 
+Pre-ICO - preparation of the ICO |  | |  | 
+ICO |  |  |  | 
+Post ICO|  |  |  | 
+
+> :tired_face: - in-process
+
+> :relaxed: - completed
 
 
 > Phases 3-4 are subject to legal review and might change depending on the legal aspects and partners/funding status.
