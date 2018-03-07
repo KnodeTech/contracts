@@ -13,7 +13,6 @@ Post ICO|  |  |  |
 
 > :relaxed: - completed
 
-
 > Phases 3-4 are subject to legal review and might change depending on the legal aspects and partners/funding status.
 
 ## Token terms per phases
